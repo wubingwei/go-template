@@ -1,0 +1,10 @@
+.idea
+*.pyc
+*.swp
+
+go.sum
+nohup.out
+
+.DS_Store
+
+.vscode/
